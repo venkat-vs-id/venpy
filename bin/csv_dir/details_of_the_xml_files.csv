@@ -1,0 +1,5 @@
+_xid,_xpath,table_name,cols,rcd_count
+D:\python\py\venpy\bin\plant_catalog.xml,/CATALOG/PLANT,table_prefix_plant,"_xid,_xpath,table_name,cols,rcd_count",table_prefix_plant
+D:\python\py\venpy\bin\nested.xml,/CATALOG/PLANT,table_prefix_plant,"_xid,_xpath,table_name,cols,rcd_count",table_prefix_plant
+D:\python\py\venpy\bin\nested.xml,/items/item/batters,table_prefix_batters,"_xid,_xpath,table_name,cols,rcd_count",table_prefix_batters
+D:\python\py\venpy\bin\nested.xml,/items/item,table_prefix_item,"_xid,_xpath,table_name,cols,rcd_count",table_prefix_item

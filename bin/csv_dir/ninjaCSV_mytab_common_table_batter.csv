@@ -1,0 +1,5 @@
+_mytab_common_table_batter_id,_mytab_item_id,_pna,_xid,_xpath,b_batters,b_batter#id,b_batter,b_batter#id__1,b_batter__1,b_batter#id__2,b_batter__2,bc_batterscost,bc_batterprice#id,bc_batterprice,bc_batterprice#id__1,bc_batterprice__1,bc_batterprice#id__2,bc_batterprice__2
+2,1,0,D:\python\py\venpy\bin\nested_adv.xml,/items/item/batters,,,,,,,,,,,,,,
+10,9,0,D:\python\py\venpy\bin\nested_adv.xml,/items/item/batters,			,1001,Regular,1002,Chocolate,1003,Blueberry,,,,,,,
+11,9,0,D:\python\py\venpy\bin\nested_adv.xml,/items/item/batterscost,,,,,,,,			,1001,100,1002,200,1003,300
+19,18,0,D:\python\py\venpy\bin\nested_adv.xml,/items/item/batters,			,2001,Regular2,2002,Chocolate2,2003,Blueberry2,,,,,,,

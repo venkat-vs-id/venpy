@@ -1,0 +1,48 @@
+<items>
+	<item id="0003" type="donut3">
+		<name>Cake3</name>
+		<ppu>0.33</ppu>
+		<batters/>
+		<topping id="2001">None2</topping>
+		<topping id="2002">Glazed2</topping>
+		<topping id="2005">Sugar2</topping>
+		<topping id="2006">Sprinkles2</topping>
+		<topping id="2003">Chocolate2</topping>
+		<topping id="2004">Maple2</topping>
+	</item>
+	<item id="0001" type="donut">
+		<name>Cake</name>
+		<ppu>0.55</ppu>
+		<batters>
+			<batter id="1001">Regular</batter>
+			<batter id="1002">Chocolate</batter>
+			<batter id="1003">Blueberry</batter>
+		</batters>
+		<batterscost>
+			<batterprice id="1001">100</batterprice>
+			<batterprice id="1002">200</batterprice>
+			<batterprice id="1003">300</batterprice>
+		</batterscost>
+		<topping id="5001">None</topping>
+		<topping id="5002">Glazed</topping>
+		<topping id="5005">Sugar</topping>
+		<topping id="5006">Sprinkles</topping>
+		<topping id="5003">Chocolate</topping>
+		<topping id="5004">Maple</topping>
+	</item>
+	<item id="0002" type="donut2">
+		<name>Cake2</name>
+		<ppu>0.22</ppu>
+		<batters>
+			<batter id="2001">Regular2</batter>
+			<batter id="2002">Chocolate2</batter>
+			<batter id="2003">Blueberry2</batter>
+		</batters>
+		<topping id="2001">None2</topping>
+		<topping id="2002">Glazed2</topping>
+		<topping id="2005">Sugar2</topping>
+		<topping id="2006">Sprinkles2</topping>
+		<topping id="2003">Chocolate2</topping>
+		<topping id="2004">Maple2</topping>
+	</item>
+</items>

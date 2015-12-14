@@ -1,0 +1,5 @@
+_xid,_xpath,table_name,cols,rcd_count
+D:\python\py\venpy\bin\nested_adv.xml,/items/item/batters,mytab_common_table_batter,"_xid,_xpath,table_name,cols,rcd_count",mytab_common_table_batter
+D:\python\py\venpy\bin\nested_adv.xml,/items/item/topping,mytab_topping,"_xid,_xpath,table_name,cols,rcd_count",mytab_topping
+D:\python\py\venpy\bin\nested_adv.xml,/items/item,mytab_item,"_xid,_xpath,table_name,cols,rcd_count",mytab_item
+D:\python\py\venpy\bin\nested_adv.xml,/items/item/batterscost,mytab_common_table_batter,"_xid,_xpath,table_name,cols,rcd_count",mytab_common_table_batter

@@ -1,0 +1,4 @@
+_mytab_item_id,_pna,_sna,_xid,_xpath,item,item#type,item#id,name,ppu,batters
+1,0,0,D:\python\py\venpy\bin\nested_adv.xml,/items/item,		,donut3,0003,Cake3,0.33,
+9,0,0,D:\python\py\venpy\bin\nested_adv.xml,/items/item,		,donut,0001,Cake,0.55,
+18,0,0,D:\python\py\venpy\bin\nested_adv.xml,/items/item,		,donut2,0002,Cake2,0.22,

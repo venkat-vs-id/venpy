@@ -20,7 +20,7 @@ def test_xml2rd():
 	
 	
 	#---- lets process a simple XML
-	logger.log( " ----- test for simple XML into CSV -----")
+	logger.log( "----- test for simple XML into CSV -----")
 	l_pwd = os.path.dirname(os.path.abspath(sys.argv[0]))
 	l_xml_file = os.path.join(l_pwd,'plant_catalog.xml')
 	
